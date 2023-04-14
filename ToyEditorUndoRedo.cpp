@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+// 문제에서 제시된 문자 최대 갯수
 const int MAX = 11;
 
 class Stack {
